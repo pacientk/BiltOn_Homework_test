@@ -19,7 +19,7 @@ This project is a refactored React application implementing the MVP (Model-View-
 1. **Clone the repository** (or copy the project files):
    ```bash
    git clone git@github.com:pacientk/BiltOn_Homework_test.git
-   cd reaktivate-tdd-challenge
+   cd BiltOn_Homework_test
    ```
 
 2. **Install dependencies**:
