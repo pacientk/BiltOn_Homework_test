@@ -1,4 +1,4 @@
-# Reaktivate TDD Challenge
+# Refactoring React application for BiltOn
 
 This project is a refactored React application implementing the MVP (Model-View-Presenter) pattern with MobX for state management. It displays a list of books, allows adding new books, and toggles between "All books" and "Private books" using the API `https://tdd.demo.reaktivate.com/v1/books/kir`. The logic is separated from the UI, with key components covered by Jest tests.
 
